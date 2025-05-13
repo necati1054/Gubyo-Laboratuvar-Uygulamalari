@@ -8,6 +8,7 @@ Mehmet Akif Ersoy Üniversitesi Gölhisar Uygulamalı Bilimler Yüksekokulu AĞ 
     │  ├─ Kablo_Cakma
     │  ├─ Putty_Kurulumu_ve_Kullanimi/
     │  ├─ Temel_Ayarlar
+    │  ├─ Telnet-SSH
 
     ├─ Ağ-2
     │  ├─ EtherChannel
@@ -28,7 +29,8 @@ Mehmet Akif Ersoy Üniversitesi Gölhisar Uygulamalı Bilimler Yüksekokulu AĞ 
     │  ├─ ACL
     │  ├─ NAT-PAT
     │  ├─ OSPF
-    │  ├─ TFTP-COP-LLDR
+    │  ├─ CDP-LLDP
+    │  ├─ TFTP
 
 ## Katkıda Bulunanlar
 - [@NecatiArman](https://github.com/necati1054)
